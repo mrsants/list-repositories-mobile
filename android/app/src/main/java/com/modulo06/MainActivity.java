@@ -1,4 +1,4 @@
-package com.modulo06;
+package com.list-repositories-mobile;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "modulo06";
+    return "list-repositories-mobile";
   }
 
     @Override

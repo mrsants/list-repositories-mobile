@@ -1,4 +1,4 @@
-package com.modulo06;
+package com.list-repositories-mobile;
 
 import android.app.Application;
 import android.content.Context;
